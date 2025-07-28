@@ -16,8 +16,10 @@ Aspiring **Full Stack Software Engineer** passionate about building scalable web
 
 - **Languages & Frameworks:**  
   - JavaScript (React.js, Node.js, Redux)
+  - TypeScript
+  - Nodejs, MongoDB
   - Dart (Flutter)
-  - ASP.NET Core MVC
+  
 - **Database:**  
   - SQL Database, Data Structure Algorithms
 - **Other:**  
