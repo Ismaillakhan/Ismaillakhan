@@ -55,17 +55,25 @@ I am a dual-track technology professional based in **Dubai, UAE**. I bridge the 
 
 ## 📁 Key Project Showcases
 
-### 🏠 [Rently](https://github.com/ismailejaz/rently) — Property Rental Portal
-> Fast, clutter-free property listing and lease management portal custom-tailored for the UAE real estate market.
+### 🏢 [Royal Millennium](https://www.milleniumtechnicals.com/) — Technical Services Portal
+> A fast, modern corporate web platform built for a technical services company in Dubai to attract commercial contract inquiries.
+> * **Stack:** React.js, Vite, TypeScript, Chakra UI, Node.js, MongoDB
+
+### 🎨 [Artirior Contracting](https://www.artirior.ae/) — Luxury Interior Portfolio
+> An elegant, portfolio-focused website for a luxury interior design company in Dubai, integrated with serverless lead tracking.
+> * **Stack:** React.js, Vite, TypeScript, Tailwind CSS, Google Apps Script
+
+### 🚜 [Yongding Machinery](https://yongdingmachinary.com/) — B2B Equipment Catalog
+> A mobile-optimized global catalog and serverless quotation logging engine developed for an industrial machinery supplier.
+> * **Stack:** React.js, Vite, TypeScript, Tailwind CSS, Google Apps Script, Google Analytics
+
+### 🛍️ [Ozywear](https://ozywear.vercel.app/) — E-Commerce & Admin SaaS
+> Premium, high-speed retail storefront and admin dashboard with custom PostgreSQL database, multi-role auth, and shipping alerts.
+> * **Stack:** Next.js, TypeScript, Tailwind CSS, Supabase, PostgreSQL
+
+### 🏠 [Rently](https://rently-ae.vercel.app) — Property Rental Platform
+> Fast, clean real estate search and property listings portal built for the UAE property market.
 > * **Stack:** React.js, Chakra UI, Vite, Node.js, Express, MongoDB
-
-### 🎨 [Art Glass Project](https://github.com/ismailejaz/art-glass) — Auction Platform
-> Premium web app featuring sub-200ms real-time bidding synchronization, payment audits, and custom portfolios.
-> * **Stack:** React.js, Vite, TypeScript, Chakra UI, Supabase Real-time
-
-### 🐃 [House of Oxen](https://github.com/ismailejaz/house-of-oxen) — Framework Auction Portal
-> University Final Year Project (FYP) utilizing multi-framework integration to run complex auction dashboards. Graduated with an A+ grade.
-> * **Stack:** React.js, Vue.js, Bootstrap, Node.js, Express
 
 ---
 
