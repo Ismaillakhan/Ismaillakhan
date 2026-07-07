@@ -71,7 +71,7 @@ I am a dual-track technology professional based in **Dubai, UAE**. I bridge the 
 
 ## 📁 Key Project Showcases
 
-### 🧠 [AskIsmail](https://askismail.vercel.app) — Digital HQ & B2B Lead Hunter Dashboard
+### 🧠 [AskIsmail](https://www.askismail.me) — Digital HQ & B2B Lead Hunter Dashboard
 > My personal brand platform — client onboarding, quotation & payment workflow, and a secure admin dashboard that syncs live leads from Google Sheets and triggers a remote Python scraping agent via GitHub Actions. Built with agentic SEO and GEO (Generative Engine Optimization) so AI assistants can accurately answer questions about my work.
 > * **Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Supabase, Framer Motion, Three.js, Resend, Google Sheets/Drive API, GitHub REST API
 
