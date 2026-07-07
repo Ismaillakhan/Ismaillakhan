@@ -9,9 +9,10 @@
 
 ## 🚀 About Me
 
-I am a dual-track technology professional based in **Dubai, UAE**. I bridge the gap between high-level **full-stack software engineering** and high-pressure **event technology operations/logistics**. 
+I am a dual-track technology professional based in **Dubai, UAE**. I bridge the gap between high-level **full-stack software engineering** and high-pressure **event technology operations/logistics**.
 
-*   🛠️ **Software Engineering**: 2+ years of hands-on experience building conversion-optimized B2B applications, SaaS portals, and custom e-commerce setups.
+*   🛠️ **Software Engineering**: 2+ years of hands-on experience building conversion-optimized B2B applications, SaaS admin dashboards, automation pipelines, and custom e-commerce platforms.
+*   🤖 **AI & GEO Optimization**: I build sites optimized not just for Google, but for AI search — structured `llms.txt`, JSON-LD schema, and Generative Engine Optimization (GEO) so AI assistants surface accurate answers about the businesses I build for.
 *   📅 **Event IT Support**: Managed live on-site network infrastructure, POS sync terminals, and registration hardware for **50+ major international events** across DWTC (Dubai World Trade Centre) and ADNEC (Abu Dhabi National Exhibition Centre).
 
 ---
@@ -28,17 +29,32 @@ I am a dual-track technology professional based in **Dubai, UAE**. I bridge the 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
 
+### **Styling, UI & Motion**
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?style=flat-square&logo=framer&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white)
+
 ### **Databases & Serverless Backend**
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Sheets%20%2F%20Drive%20API-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+### **DevOps, Integrations & Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ### **Marketing & Analytics**
 ![Google Ads](https://img.shields.io/badge/Google%20Ads-4285F4?style=flat-square&logo=google-ads&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=wordpress&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-Search%20Engine-success?style=flat-square)
+![SEO](https://img.shields.io/badge/Technical%20SEO-success?style=flat-square)
+![GEO](https://img.shields.io/badge/GEO-AI%20Search%20Optimization-8A2BE2?style=flat-square)
 
 ---
 
@@ -54,6 +70,10 @@ I am a dual-track technology professional based in **Dubai, UAE**. I bridge the 
 ---
 
 ## 📁 Key Project Showcases
+
+### 🧠 [AskIsmail](https://askismail.vercel.app) — Digital HQ & B2B Lead Hunter Dashboard
+> My personal brand platform — client onboarding, quotation & payment workflow, and a secure admin dashboard that syncs live leads from Google Sheets and triggers a remote Python scraping agent via GitHub Actions. Built with agentic SEO and GEO (Generative Engine Optimization) so AI assistants can accurately answer questions about my work.
+> * **Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Supabase, Framer Motion, Three.js, Resend, Google Sheets/Drive API, GitHub REST API
 
 ### 🏢 [Royal Millennium](https://www.milleniumtechnicals.com/) — Technical Services Portal
 > A fast, modern corporate web platform built for a technical services company in Dubai to attract commercial contract inquiries.
@@ -95,4 +115,4 @@ I am a dual-track technology professional based in **Dubai, UAE**. I bridge the 
 
 ---
 
-*Let's connect and build something amazing together! Reach out to me via [Email](mailto:ismailejaz5050@gmail.com) or visit my [Portfolio Website](https://askismail.vercel.app).*
+*Let's connect and build something amazing together! Reach out to me via [Email](mailto:ismailejaz5050@gmail.com) or visit my [Portfolio Website](https://www.askismail.me).*
